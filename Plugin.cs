@@ -1,5 +1,5 @@
 /*
- * Barfender
+ * Barfender-CustomJukebox
  * Copyright (C) 2026 JustABrit1512
  *
  * This program is free software: you can redistribute it and/or modify
